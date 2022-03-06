@@ -1,0 +1,11 @@
+.container{
+	padding: 40px 175px;
+}
+
+
+.banner{
+	background-image: url("humanbrain.jpg");
+	background-size: 300px;
+	color: white;
+	padding: 150px 0px;
+}
